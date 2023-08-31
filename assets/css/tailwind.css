@@ -452,7 +452,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-ring-inset: ;
   --tw-ring-offset-width: 0px;
   --tw-ring-offset-color: #fff;
-  --tw-ring-color: rgb(59 130 246 / 0.5);
+  --tw-ring-color: rgb(8 131 201 / 0.5);
   --tw-ring-offset-shadow: 0 0 #0000;
   --tw-ring-shadow: 0 0 #0000;
   --tw-shadow: 0 0 #0000;
@@ -1235,7 +1235,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .from-primary {
-  --tw-gradient-from: #3056d3;
+  --tw-gradient-from: #0883C9;
   --tw-gradient-stops: var(--tw-gradient-from),
     var(--tw-gradient-to, rgb(48 86 211 / 0));
 }
@@ -1245,7 +1245,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .to-\[\#179BEE\] {
-  --tw-gradient-to: #179bee;
+  --tw-gradient-to: #09b0d6;
 }
 
 .fill-current {
