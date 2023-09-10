@@ -5,9 +5,9 @@ Play crafted in a way that you can use with almost all sort of web project. This
 
 ### This template crafted using 🥞 [TailGrids](https://tailgrids.com/) UI components
 
-### [🚀 View Demo](https://play-tailwind.tailgrids.com/)
+### [🚀 View Demo](https://c-onfused69.github.io/Aquarium-Shop-TWCSS/)
 
-### [⬇️ Download Now](https://links.tailgrids.com/play-download)
+### [⬇️ Download Now]()
 
 [![play-tailwind](https://cdn.tailgrids.com/play-tailwind.jpg)](https://c-onfused69.github.io/Aquarium-Shop-TWCSS/)
 
