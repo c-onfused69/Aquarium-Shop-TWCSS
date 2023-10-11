@@ -9,7 +9,7 @@ Play crafted in a way that you can use with almost all sort of web project. This
 
 ### [⬇️ Download Now]()
 
-[![Aquarium-Shop-TWCSS]()](https://c-onfused69.github.io/Aquarium-Shop-TWCSS/)
+[![Aquarium-Shop-TWCSS](https://raw.githubusercontent.com/c-onfused69/Aquarium-Shop-TWCSS/master/assets/thumbnails/thumbnail.png)](https://c-onfused69.github.io/Aquarium-Shop-TWCSS/)
 
 ## 📃 License
 
